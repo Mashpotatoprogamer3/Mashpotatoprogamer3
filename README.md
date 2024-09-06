@@ -1,6 +1,6 @@
 ## Hi there 👋
 ⭐️s = 1
-
+I'm currently learning: Java/Minecraft modding
 <!-- Visitor count from Blocage !-->
 <p align="center">
   Visitor count<br>
